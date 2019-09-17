@@ -5,7 +5,11 @@
         Already up-to-date.则说明你的项目是最新的.
     然后在提交
         git push -u origin master
-8.从github上获取你的项目
-        git clone + 你的远程厂库地址
-        如:git clone https://github.com/shuilianyu/todolist.git
+一、从github上获取你的项目
+git clone https://github.com/Harzva/cangku2.git
+git push -u origin master
+二、更新你的git hub项目      
+git add .
+git commit -m "init project"
+git push -u origin master
 
