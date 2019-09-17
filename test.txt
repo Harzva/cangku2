@@ -1,1 +1,11 @@
-asasas
+注意:
+    更新github上的项目时,一般先要获取一下,因为可能你的小伙伴更新过你们的远程厂库
+        git pull
+        如果出现
+        Already up-to-date.则说明你的项目是最新的.
+    然后在提交
+        git push -u origin master
+8.从github上获取你的项目
+        git clone + 你的远程厂库地址
+        如:git clone https://github.com/shuilianyu/todolist.git
+
